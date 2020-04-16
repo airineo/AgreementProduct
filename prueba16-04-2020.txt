@@ -1,0 +1,3 @@
+Name: prueba
+Signed by: Alberto
+Products: [com.model.Products@70b59e8d]
